@@ -79,35 +79,6 @@ The analysis of Instagram data provided valuable insights into user behavior and
 
 
 
-
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
-      
-      1 KPI Dashboard
-
-![KPI Dashboard](visuals/KPIDashboard.png)
-
-      2 Top-Down Dashboard
-      
-![Top Down Dashboard](visuals/TopDownDashboard.png)
-
-      3 Q&A Dashboard
-      
-![Q&A Dashboard](visuals/Q&ADashboard.png)
-
-      4 Bottom-Up Dashboard
-      
-![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
-
-      5 Geo Chart
-      
-![Geo Chart](visuals/GeoChart.png)
-
-
-
-
-
-
-
 - [x] **Excel** - 
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
