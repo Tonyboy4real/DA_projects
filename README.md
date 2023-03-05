@@ -16,29 +16,29 @@
 
 - [x] **Hadoop (Hive)** - 
   - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
+*Review the HiveQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
 
 
 
 - [x] **SQL** - 
   - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
   - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
 
 
 
 - [x] **PostgreSQL** - 
   - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
+*Review the PostgreSQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
+
 
 
 
 - [x] **Python** - 
   - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Python%20-%20Movie%20Industry%20EDA%20Project.ipynb)**<br />
 
 
 
