@@ -6,9 +6,9 @@
 
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
+*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/anton.antonyan/viz/InstagramCloneDataAnalysisDashboard_16780068797020/InstagramCloneDataAnalysisDashboard)**<br />
+*Review the Data Insertion SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
+*Review the Data Exploration SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
