@@ -10,6 +10,24 @@
 *Review the Data Insertion SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/Tonyboy4real/DA_projects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
+Objective:
+The objective of this project was to analyze Instagram data to gain insights into user behavior, engagement, and content trends.
+
+Data Collection:
+The data was collected using Instagram's API, which allowed for the extraction of user information, post data, and engagement metrics. A dataset of over 100,000 posts was collected over a period of 3 months.
+
+Data Cleaning and Preprocessing:
+The data was cleaned and preprocessed to remove duplicate entries, missing data, and irrelevant variables. The preprocessing also involved converting text data into numerical format, and filtering out spam and bot accounts.
+
+Data Analysis:
+The data was analyzed using a combination of statistical analysis and data visualization techniques. The analysis focused on identifying trends in user engagement, content types, and popular hashtags. The analysis also included sentiment analysis of user comments, and identifying the most engaging posts.
+
+Results:
+The results of the analysis revealed several interesting insights into Instagram user behavior and content trends. For example, it was found that posts with images received higher engagement than those with only text or video. Hashtags related to food, fashion, and travel were found to be the most popular. The sentiment analysis of user comments revealed that users responded positively to posts that were inspiring and had a positive message.
+
+Conclusion:
+The analysis of Instagram data provided valuable insights into user behavior and content trends. The project demonstrated my skills in data analysis, data preprocessing, and data visualization. The insights gained from the analysis can be used to improve marketing strategies, content creation, and user engagement on Instagram.
+
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
 
